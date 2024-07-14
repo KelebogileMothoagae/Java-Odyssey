@@ -13,17 +13,24 @@ Prerequisites
 Before running the program, make sure you have the following set up:
 
 JDK 21: Download and install JDK 21.
+
 Environment Setup: Ensure JDK 21 is correctly set up in your environment variables.
+
 Getting Started
+
 Running the Program
+
 You can run the Email Generator using the provided batch file or directly through the command prompt.
 
-Using the Batch File
-1.Navigate to the directory containing the batch file.
+1. Using the Batch File
+Navigate to the directory containing the batch file.
 Double-click the batch file to execute the program.
 
-2.Using Command Prompt:-
+2. Using Command Prompt:-
 Open the command prompt.
+
 Navigate to the directory containing Main.java.
-Compile the Java file (if not already compiled) with 'Javac Main.java' Command
-then run the program with 'Java Main.java'
+
+Compile the Java file (if not already compiled) with 'Javac Main.java' Command.
+
+then run the program with 'Java Main.java' Command.
