@@ -3,11 +3,12 @@
 This application is made to make it easy for you to create passwords and business-like email addresses for other people. You can find all the information you require to get going below.
 
 Features
-Customizable Email Addresses: Use predefined templates or create your own.
 
-Dynamic Content: Automatically fill in personalized information.
+•Customizable Email Addresses: Use predefined templates or create your own.
 
-Simple Interface: User-friendly command-line interface for ease of use.
+•Dynamic Content: Automatically fill in personalized information.
+
+•Simple Interface: User-friendly command-line interface for ease of use.
 
 Prerequisites
 Before running the program, make sure you have the following set up:
