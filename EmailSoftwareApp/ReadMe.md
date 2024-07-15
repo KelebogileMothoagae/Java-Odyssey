@@ -2,24 +2,25 @@
 
 This application is made to make it easy for you to create passwords and business-like email addresses for other people. You can find all the information you require to get going below.
 
-Features
+**Features**
 
-•Customizable Email Addresses: Use predefined templates or create your own.
+**Customizable Email Addresses:** Use predefined templates or create your own.
 
-•Dynamic Content: Automatically fill in personalized information.
+**Dynamic Content:** Automatically fill in personalized information.
 
-•Simple Interface: User-friendly command-line interface for ease of use.
+**Simple Interface:** User-friendly command-line interface for ease of use.
 
-Prerequisites
+**Prerequisites**
+
 Before running the program, make sure you have the following set up:
 
 JDK 21: Download and install JDK 21.
 
 Environment Setup: Ensure JDK 21 is correctly set up in your environment variables.
 
-Getting Started
+**Getting Started**
 
-Running the Program
+**Running the Program**
 
 You can run the Email Generator using the provided batch file or directly through the command prompt.
 
