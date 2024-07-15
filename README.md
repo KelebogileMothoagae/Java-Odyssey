@@ -3,6 +3,6 @@ Welcome to Java Odyssey👾✨, a repository crafted by Kelebogile Mothoagae. Em
 
 To run these Java programs:
 
-Ensure you have downloaded and installed JDK 21 and set it up in your environment.
-Easily run the programs using the provided batch file.
-Alternatively, run them using the command prompt with the following command: java Main.java.
+•Ensure you have downloaded and installed JDK 21 and set it up in your environment.
+•Easily run the programs using the provided batch file.
+•Alternatively, run them using the command prompt with the following command: 'java Main.java'.
